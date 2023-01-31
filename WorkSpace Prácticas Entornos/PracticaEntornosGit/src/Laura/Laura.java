@@ -13,6 +13,7 @@ public class Laura {
 	public static void misComidas() {
 		System.out.println("mis comidas favs son los macarrones con tomate, la tortilla de patata y las hamburguesas");
 	}
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
