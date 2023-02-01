@@ -19,12 +19,19 @@ public class Ivan {
 		String comidas = "la paella, el arroz al horno y la coca de tomate de mi madre.";
 		return comidas;
 	}//END misComidas
+	
+	//Comidas Luxmy
+	private static String comidasLuxmy() {
+		String comidasL = "El tikka masala, el sushi y los tacos";
+		return comidasL;
+	}
 
 	public static void main(String[] args) {
 		
 		System.out.println("Hola, soy "+miNombre());
 		System.out.println("y tres de mis hobbies son: " + hobbies());
 		System.out.println("Mis 3 comidas favoritas son: " + comidas());
+		System.out.println("Las comidas favoritas de Luxmy son: " + comidasLuxmy() );
 		
 
 	}//END MAIN
