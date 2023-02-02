@@ -13,7 +13,7 @@ public class Ivan {
 	}//END hobbies
 	
 	private static String comidas() {
-		String comidas = "la paella, el arroz al horno y la coca de tomate de mi madre.";
+		String comidas = "el pollo tikka masala, el sushi y los tacos";
 		return comidas;
 	}//END misComidas
 	
