@@ -22,7 +22,8 @@ public class Ivan {
 		System.out.println("Hola, soy "+miNombre());
 		System.out.println("y tres de mis hobbies son: " + hobbies());
 		System.out.println("Mis 3 comidas favoritas son: " + comidas());		
-
+		System.out.println("Mi postre favorito es la tarta de queso");
+		
 	}//END MAIN
 
 }//END IVAN
