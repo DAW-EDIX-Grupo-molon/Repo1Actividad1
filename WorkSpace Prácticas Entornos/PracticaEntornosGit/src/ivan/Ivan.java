@@ -12,16 +12,10 @@ public class Ivan {
 		return hobbies;
 	}//END hobbies
 	
-	private static String comidas() {
-		String comidas = "el pollo tikka masala, el sushi y los tacos";
-		return comidas;
-	}//END misComidas
-	
 	public static void main(String[] args) {
 		
 		System.out.println("Hola, soy "+miNombre());
-		System.out.println("y tres de mis hobbies son: " + hobbies());
-		System.out.println("Mis 3 comidas favoritas son: " + comidas());		
+		System.out.println("y tres de mis hobbies son: " + hobbies());		
 
 	}//END MAIN
 
